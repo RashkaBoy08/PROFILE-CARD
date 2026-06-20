@@ -93,6 +93,11 @@ button:hover {
   button {
     width: 100%;
   }
+
+  button:hover {
+    background-color: #333;
+    cursor: pointer;
+  }
 }
 
 /*=============
