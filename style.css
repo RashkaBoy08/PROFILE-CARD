@@ -74,6 +74,10 @@ button:hover {
 
 /* Mobile Devices */
 @media (max-width: 480px) {
+  body {
+    font-family: "Poppins", sans-serif;
+  }
+
   .card {
     padding: 20px;
   }
